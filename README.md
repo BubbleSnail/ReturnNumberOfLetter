@@ -20,7 +20,7 @@ This is a simple console application written in C# using .NET Core. The applicat
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/BubbleSnail/ReturnNumberOfLetter.git
 
 2. Navigate to the Project Directory
    cd ReturnNumberOfLetter
